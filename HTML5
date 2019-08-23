@@ -1,0 +1,86 @@
+<ul class="navbar">
+  <li nav-item>
+    <a href="#">NAV ITEM 1</a>
+	<ul>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+      	<li>
+          <div>
+            <img src="#">
+          </div>
+      	</li>
+	</ul>
+  </li>
+  <li>
+    <a href="#">NAV ITEM 2</a>
+    <ul>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+      	<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+      	<li>
+          <div>
+            <img src="#">
+          </div>
+      	</li>
+	</ul>
+  </li>
+  <li>
+    <a href="#">NAV ITEM 3</a>
+    <ul>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+  		<li>
+          <a href="#">DROPDOWN MENU ITEM</a>
+      	</li>
+      	<li>
+          <div>
+            <img src="#">
+          </div>
+      	</li>
+	</ul>
+  </li>
+</ul>
